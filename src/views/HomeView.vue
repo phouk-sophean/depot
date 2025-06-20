@@ -37,9 +37,6 @@ const cards = [
       <div class="max-w-7xl mx-auto">
         <!-- Hero Section -->
         <div class="text-center mb-16 space-y-6">
-          <div class="inline-flex items-center px-4 py-2 bg-blue-100 text-blue-700 rounded-full text-sm font-medium mb-4">
-            ✨ Welcome to Excellence
-          </div>
           <h1 class="text-5xl md:text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-blue-600 via-purple-600 to-cyan-500 leading-tight">
             Welcome to our home!
           </h1>
